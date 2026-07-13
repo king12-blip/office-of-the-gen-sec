@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>COHSSA | Al-Hikmah University Chapter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>COHSSA</h1>
+    <p>College of Health Sciences Students Association</p>
+    <p>Al-Hikmah University Chapter</p>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#executives">Executives</a>
+        <a href="#events">Events</a>
+        <a href="#resources">Resources</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+
+<section class="hero">
+
+    <h2>Building Excellence Through Unity and Service</h2>
+
+    <p>
+        Welcome to the official digital platform of COHSSA,
+        Al-Hikmah University Chapter.
+    </p>
+
+    <button>Explore COHSSA</button>
+
+</section>
+
+
+
+<section id="about">
+
+<h2>About COHSSA</h2>
+
+<p>
+COHSSA represents students of the College of Health Sciences,
+promoting academic excellence, leadership, welfare,
+unity and professional development.
+</p>
+
+</section>
+
+
+
+<section id="executives">
+
+<h2>Executive Council</h2>
+
+
+<div class="cards">
+
+
+<div class="card">
+<h3>President</h3>
+<p>Comr. Akinola Abdul Qudus</p>
+</div>
+
+
+<div class="card">
+<h3>Vice President</h3>
+<p>Comr. Atitola Iqma</p>
+</div>
+
+
+<div class="card">
+<h3>General Secretary</h3>
+<p>Comr. Otun Abdullateef</p>
+</div>
+
+
+<div class="card">
+<h3>Assistant General Secretary</h3>
+<p>Comr. Babarinde Maryam</p>
+</div>
+
+
+<div class="card">
+<h3>Financial Secretary</h3>
+<p>Comr. Farouq Babatunde</p>
+</div>
+
+
+<div class="card">
+<h3>Auditor General</h3>
+<p>Comr. Muhammad Umar</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+
+
+<section id="events">
+
+<h2>Upcoming Events</h2>
+
+<ul>
+
+<li>Academic Orientation</li>
+
+<li>Health Awareness Program</li>
+
+<li>COHSSA Annual Week</li>
+
+<li>Student Welfare Programs</li>
+
+</ul>
+
+</section>
+
+
+
+
+<section id="resources">
+
+<h2>Student Resources</h2>
+
+
+<div class="cards">
+
+<div class="card">
+<h3>Lecture Materials</h3>
+<p>Access academic materials and guides.</p>
+</div>
+
+
+<div class="card">
+<h3>Past Questions</h3>
+<p>Prepare better with previous examination materials.</p>
+</div>
+
+
+<div class="card">
+<h3>Academic Calendar</h3>
+<p>Stay updated with important academic dates.</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+
+
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<p>
+Official COHSSA communication platform.
+</p>
+
+<p>
+Email: cohssa@example.com
+</p>
+
+</section>
+
+
+
+
+<footer>
+
+<p>
+© 2026 COHSSA Al-Hikmah University Chapter.
+All Rights Reserved.
+</p>
+
+
+<p>
+Created by the 7th General Secretary, COHSSA Al-Hikmah University Chapter
+<br>
+<strong>OTUN ABDULLATEEF</strong>
+</p>
+
+
+</footer>
+
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
