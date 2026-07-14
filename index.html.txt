@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html>
-
 <head>
+<img src="images/logo.png" alt="COHSSA Logo" width="120">
     <title>COHSSA | Al-Hikmah University Chapter</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
 <header>
     <h1>COHSSA</h1>
     <p>College of Health Sciences Students Association</p>
     <p>Al-Hikmah University Chapter</p>
-
     <nav>
+<div class="card">
+    <img src="images/gensec.jpg" alt="General Secretary">
+    <h3>General Secretary</h3>
+    <p>Comr. OTUN ABDULLATEEF</p>
+</div>
         <a href="#about">About</a>
         <a href="#executives">Executives</a>
         <a href="#events">Events</a>
